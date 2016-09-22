@@ -43,8 +43,8 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-* `LiveScript` — compile script
-* `LiveScript --map` — compile script, create source map
+* `LiveScript <options>` — compile script
+* `Watch LiveScript <options>` — watch and compile script
 
 ### Shortcuts
 
