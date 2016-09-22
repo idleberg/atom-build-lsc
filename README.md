@@ -7,7 +7,7 @@
 [![David](https://img.shields.io/david/idleberg/atom-build-lsc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lsc#info=dependencies)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-lsc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lsc?type=dev)
 
-[Atom Build](https://atombuild.github.io/) provider for [LiveScript](http://livescript.net/), LiveScript. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
+[Atom Build](https://atombuild.github.io/) provider for `lsc`, compiles [LiveScript](http://livescript.net/). Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
 ## Installation
 
@@ -43,7 +43,8 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-* `LiveScript` — compile script (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>)
+* `LiveScript` — compile script
+* `LiveScript --map` — compile script, create source map
 
 ### Shortcuts
 
