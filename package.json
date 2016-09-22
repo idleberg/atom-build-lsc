@@ -7,10 +7,9 @@
   "keywords": [
     "build",
     "compile",
-    "bucklescript",
-    "ocaml",
+    "livescript",
     "javascript",
-    "bsc",
+    "lsc",
     "linter",
     "lint"
   ],
