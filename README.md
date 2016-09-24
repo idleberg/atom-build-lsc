@@ -38,8 +38,8 @@ $ git clone https://github.com/idleberg/atom-build-lsc build-lsc
 Install Node dependencies:
 
 ```bash
-cd build-lsc
-npm install
+$ cd build-lsc
+$ npm install
 ```
 
 ## Usage
