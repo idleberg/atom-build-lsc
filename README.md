@@ -39,7 +39,7 @@ Install Node dependencies:
 
 ```bash
 $ cd build-lsc
-$ npm install
+$ yarn || npm install
 ```
 
 ## Usage
