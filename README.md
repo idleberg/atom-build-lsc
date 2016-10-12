@@ -35,10 +35,9 @@ Clone repository as `build-lsc`:
 $ git clone https://github.com/idleberg/atom-build-lsc build-lsc
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-lsc
 $ yarn || npm install
 ```
 
