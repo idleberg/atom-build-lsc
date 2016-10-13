@@ -17,7 +17,7 @@ Install `build-lsc` from Atom's [Package Manager](http://flight-manual.atom.io/u
 
 `$ apm install build-lsc`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
