@@ -1,6 +1,6 @@
 {
   "name": "build-lsc",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Atom Build provider for lsc, compiles LiveScript",
   "repository": "https://github.com/idleberg/atom-build-lsc",
   "license": "MIT",
